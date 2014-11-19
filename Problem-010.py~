@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+    Problem 010 - Summation of Primes
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    :description:
+
+    :url:
+    https://projecteuler.net/problem=10
+
+    :answer: 
+    :time: 
+
+    :author:
+    :updated: 2014-11-19
+"""
+from time import time
+t = time()
